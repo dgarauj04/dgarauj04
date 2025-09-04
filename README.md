@@ -1,7 +1,7 @@
 # DOUGLAS ARAUJO
 
 # 💫 About Me:
- 📚 Atualmente estou estudando **Java, Python, AWS e Inteligência Artificial**.<br> 💻 Sou um **desenvolvedor Full-stack junior**, com conhecimentos em **HTML, SCSS/SASS/CSS, React, JavaScript/Typescript, Python, Node, Java, GIT, GITHUB e MySQL/SQL**.<br>🤝 Estou procurando colaborar em projetos que envolvam **desenvolvimento web, design, inteligência artificial, dados ou automação**.<br>
+ 📚 Atualmente estou estudando **React Native, Java, Python, AWS e Inteligência Artificial**.<br> 💻 Sou um **desenvolvedor Full-stack junior**, com conhecimentos em **HTML, SCSS/SASS/CSS, React, JavaScript/Typescript, Python, Node, GIT, GITHUB e MySQL/SQL**.<br>🤝 Estou procurando colaborar em projetos que envolvam **desenvolvimento web, design, inteligência artificial, dados ou automação**.<br>
 
 
 ## 🌐 Socials:
