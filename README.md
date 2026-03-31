@@ -1,7 +1,7 @@
 # DOUGLAS ARAUJO
 
 # 💫 About Me:
- 📚 Atualmente estou estudando **React Native, Java, Python, AWS e Inteligência Artificial**.<br> 💻 Sou um **desenvolvedor Full-stack junior**, com conhecimentos em **HTML, SCSS/SASS/CSS, React, JavaScript/Typescript, Python, Node, GIT, GITHUB e MySQL/SQL**.<br>🤝 Estou procurando colaborar em projetos que envolvam **desenvolvimento web, design, inteligência artificial, dados ou automação**.<br>
+ 📚 Atualmente estou estudando **React Native, Java, Python, Cloud e Inteligência Artificial**.<br> 💻 Sou um **desenvolvedor Full-stack junior**, com conhecimentos em **HTML, SCSS/SASS/CSS, React, JavaScript/Typescript, Python, Node, GIT, GITHUB e MySQL/SQL**.<br>🤝 Estou procurando colaborar em projetos que envolvam **desenvolvimento web, design, inteligência artificial, dados ou automação**.<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/P43ZkyRE) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dgaraujoo_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/douglas-araujo-dgprogdev) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dg_loiro) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/dgaraujo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:douglasdab10@gmail.com) 
